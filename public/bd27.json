@@ -8,7 +8,7 @@
     "artista": "Keane",
     "album": "The Night Sky",
     "numero_de_pista": "1/5",
-    "Año": ""
+    "Año": "2024"
   },
   {
     "archivo_musica": "Albums/198274496_2.flac",
@@ -19,7 +19,7 @@
     "artista": "Keane",
     "album": "The Night Sky",
     "numero_de_pista": "2/5",
-    "Año": ""
+    "Año": "2024"
   },
   {
     "archivo_musica": "Albums/198274496_3.flac",
@@ -30,7 +30,7 @@
     "artista": "Keane",
     "album": "The Night Sky",
     "numero_de_pista": "3/5",
-    "Año": ""
+    "Año": "2024"
   },
   {
     "archivo_musica": "Albums/198274496_4.flac",
@@ -41,7 +41,7 @@
     "artista": "Keane",
     "album": "The Night Sky",
     "numero_de_pista": "4/5",
-    "Año": ""
+    "Año": "2024"
   },
   {
     "archivo_musica": "Albums/198274496_5.flac",
@@ -52,6 +52,61 @@
     "artista": "Keane",
     "album": "The Night Sky",
     "numero_de_pista": "5/5",
-    "Año": ""
+    "Año": "2024"
+  },
+  {
+    "archivo_musica": "Albums/198274497_1.flac",
+    "descripcion": "198274496",
+    "imagen": "Albums/198274496.jpg",
+    "genero": "Pop/General",
+    "titulo": "The Sun Ain't Gonna Shine Anymore",
+    "artista": "Keane",
+    "album": "The Night Sky",
+    "numero_de_pista": "5/5",
+    "Año": "2024"
+  },
+  {
+    "archivo_musica": "Albums/198274497_2.flac",
+    "descripcion": "198274496",
+    "imagen": "Albums/198274496.jpg",
+    "genero": "Pop/General",
+    "titulo": "The Sun Ain't Gonna Shine Anymore",
+    "artista": "Keane",
+    "album": "The Night Sky",
+    "numero_de_pista": "5/5",
+    "Año": "2024"
+  },
+  {
+    "archivo_musica": "Albums/198274497_3.flac",
+    "descripcion": "198274496",
+    "imagen": "Albums/198274496.jpg",
+    "genero": "Pop/General",
+    "titulo": "The Sun Ain't Gonna Shine Anymore",
+    "artista": "Keane",
+    "album": "The Night Sky",
+    "numero_de_pista": "5/5",
+    "Año": "2024"
+  },
+  {
+    "archivo_musica": "Albums/198274498_1.flac",
+    "descripcion": "198274498",
+    "imagen": "Albums/198274498.jpg",
+    "genero": "Alternative Rock/General",
+    "titulo": "You Are Young (Alternative Structure - Work In Progress)",
+    "artista": "Keane",
+    "album": "Strangeland 10 : Work In Progress Versions",
+    "numero_de_pista": "1/2",
+    "Año": "2022"
+  },
+  {
+    "archivo_musica": "Albums/198274498_2.flac",
+    "descripcion": "198274498",
+    "imagen": "Albums/198274498.jpg",
+    "genero": "Alternative Rock/General",
+    "titulo": "Sea Fog (Full Band Version - Work In Progress)",
+    "artista": "Keane",
+    "album": "Strangeland 10 : Work In Progress Versions",
+    "numero_de_pista": "2/2",
+    "Año": "2022"
   }
 ]
