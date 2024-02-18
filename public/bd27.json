@@ -56,36 +56,36 @@
   },
   {
     "archivo_musica": "Albums/198274497_1.flac",
-    "descripcion": "198274496",
+    "descripcion": "198274497",
     "imagen": "Albums/198274496.jpg",
     "genero": "Pop/General",
-    "titulo": "The Sun Ain't Gonna Shine Anymore",
+    "titulo": "This Is The Last Time",
     "artista": "Keane",
-    "album": "The Night Sky",
-    "numero_de_pista": "5/5",
-    "Año": "2024"
+    "album": "This Is The Last Time (Enhanced)",
+    "numero_de_pista": "1/3",
+    "Año": "2004"
   },
   {
     "archivo_musica": "Albums/198274497_2.flac",
-    "descripcion": "198274496",
+    "descripcion": "198274497",
     "imagen": "Albums/198274496.jpg",
     "genero": "Pop/General",
-    "titulo": "The Sun Ain't Gonna Shine Anymore",
+    "titulo": "She Opens Her Eyes",
     "artista": "Keane",
-    "album": "The Night Sky",
-    "numero_de_pista": "5/5",
-    "Año": "2024"
+    "album": "This Is The Last Time (Enhanced)",
+    "numero_de_pista": "2/3",
+    "Año": "2004"
   },
   {
     "archivo_musica": "Albums/198274497_3.flac",
-    "descripcion": "198274496",
+    "descripcion": "198274497",
     "imagen": "Albums/198274496.jpg",
     "genero": "Pop/General",
-    "titulo": "The Sun Ain't Gonna Shine Anymore",
+    "titulo": "This Is The Last Time (Demo)",
     "artista": "Keane",
-    "album": "The Night Sky",
-    "numero_de_pista": "5/5",
-    "Año": "2024"
+    "album": "This Is The Last Time (Enhanced)",
+    "numero_de_pista": "3/3",
+    "Año": "2004"
   },
   {
     "archivo_musica": "Albums/198274498_1.flac",
