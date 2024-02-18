@@ -57,7 +57,7 @@
   {
     "archivo_musica": "Albums/198274497_1.flac",
     "descripcion": "198274497",
-    "imagen": "Albums/198274497.jpg",
+    "imagen": "Albums/198274497.png",
     "genero": "Pop/General",
     "titulo": "This Is The Last Time",
     "artista": "Keane",
@@ -68,7 +68,7 @@
   {
     "archivo_musica": "Albums/198274497_2.flac",
     "descripcion": "198274497",
-    "imagen": "Albums/198274497.jpg",
+    "imagen": "Albums/198274497.png",
     "genero": "Pop/General",
     "titulo": "She Opens Her Eyes",
     "artista": "Keane",
@@ -79,7 +79,7 @@
   {
     "archivo_musica": "Albums/198274497_3.flac",
     "descripcion": "198274497",
-    "imagen": "Albums/198274497.jpg",
+    "imagen": "Albums/198274497.png",
     "genero": "Pop/General",
     "titulo": "This Is The Last Time (Demo)",
     "artista": "Keane",
