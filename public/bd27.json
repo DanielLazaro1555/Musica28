@@ -1,0 +1,57 @@
+[
+  {
+    "archivo_musica": "Albums/198274496_1.flac",
+    "descripcion": "198274496",
+    "imagen": "Albums/198274496.jpg",
+    "genero": "Alternative rock",
+    "titulo": "The Night Sky",
+    "artista": "Keane",
+    "album": "The Night Sky",
+    "numero_de_pista": "1/5",
+    "Año": "2007"
+  },
+  {
+    "archivo_musica": "Albums/198274496_2.flac",
+    "descripcion": "198274496",
+    "imagen": "Albums/198274496.jpg",
+    "genero": "Alternative rock",
+    "titulo": "The Night Sky (Demo)",
+    "artista": "Keane",
+    "album": "The Night Sky",
+    "numero_de_pista": "2/5",
+    "Año": "2007"
+  },
+  {
+    "archivo_musica": "Albums/198274496_3.flac",
+    "descripcion": "198274496",
+    "imagen": "Albums/198274496.jpg",
+    "genero": "Alternative rock",
+    "titulo": "Under Pressure",
+    "artista": "Keane",
+    "album": "The Night Sky",
+    "numero_de_pista": "3/5",
+    "Año": "2007"
+  },
+  {
+    "archivo_musica": "Albums/198274496_4.flac",
+    "descripcion": "198274496",
+    "imagen": "Albums/198274496.jpg",
+    "genero": "Alternative rock",
+    "titulo": "Put It Behind You (Ffrisco Mix)",
+    "artista": "Keane",
+    "album": "The Night Sky",
+    "numero_de_pista": "4/5",
+    "Año": "2007"
+  },
+  {
+    "archivo_musica": "Albums/198274496_5.flac",
+    "descripcion": "198274496",
+    "imagen": "Albums/198274496.jpg",
+    "genero": "Alternative rock",
+    "titulo": "The Sun Ain't Gonna Shine Anymore",
+    "artista": "Keane",
+    "album": "The Night Sky",
+    "numero_de_pista": "5/5",
+    "Año": "2007"
+  }
+]
