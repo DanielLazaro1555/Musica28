@@ -240,5 +240,16 @@
     "album": "Retroactive - EP3",
     "numero_de_pista": "4/4",
     "Año": "2020"
+  },
+  {
+    "archivo_musica": "Albums/198274502_1.flac",
+    "descripcion": "198274502",
+    "imagen": "Albums/198274502.jpg",
+    "genero": "Pop/General",
+    "titulo": "Goodbye Yellow Brick Road",
+    "artista": "Keane",
+    "album": "Goodbye Yellow Brick Road",
+    "numero_de_pista": "1/1",
+    "Año": "2018"
   }
 ]
