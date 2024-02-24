@@ -251,5 +251,16 @@
     "album": "Goodbye Yellow Brick Road",
     "numero_de_pista": "1/1",
     "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274503_1.flac",
+    "descripcion": "198274503",
+    "imagen": "Albums/198274503.jpg",
+    "genero": "Pop, Rock, Alternatif et Indé",
+    "titulo": "Friendly Fire",
+    "artista": "Linkin Park",
+    "album": "Friendly Fire",
+    "numero_de_pista": "1/1",
+    "Año": "2024"
   }
 ]
