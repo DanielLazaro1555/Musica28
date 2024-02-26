@@ -262,5 +262,16 @@
     "album": "Friendly Fire",
     "numero_de_pista": "1/1",
     "Año": "2024"
+  },
+  {
+    "archivo_musica": "Albums/198274504_1.flac",
+    "descripcion": "198274504",
+    "imagen": "Albums/198274504.jpg",
+    "genero": "Dance & DJ/Electronica",
+    "titulo": "Breakn' a Sweat (Zedd Remix)",
+    "artista": "Skrillex & The Doors",
+    "album": "Breakn' A Sweat (Zedd Remix) [Explicit]",
+    "numero_de_pista": "1/1",
+    "Año": ""
   }
 ]
