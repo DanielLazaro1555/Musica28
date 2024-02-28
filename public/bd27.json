@@ -284,5 +284,50 @@
     "album": "Imagination",
     "numero_de_pista": "1/1",
     "Año": "2019"
+  },
+  {
+    "archivo_musica": "Albums/198274506_1.flac",
+    "descripcion": "198274506",
+    "imagen": "Albums/198274506.jpg",
+    "genero": "Dance & DJ/Electronica",
+    "titulo": "STONEOCEAN (Eurobeat Remix)",
+    "artista": "Turbo",
+    "album": "Eurobeat Remix",
+    "numero_de_pista": "1/4",
+    "Año": "2021"
+  },
+  {
+    "archivo_musica": "Albums/198274506_2.flac",
+    "descripcion": "198274506",
+    "imagen": "Albums/198274506.jpg",
+    "genero": "Dance & DJ/Electronica",
+    "titulo": "Gimme! Gimme! Gimme! A Eurobeat Remix",
+    "artista": "Turbo",
+    "album": "Eurobeat Remix",
+    "numero_de_pista": "2/4",
+    "Año": "2021"
+  }
+  ,
+  {
+    "archivo_musica": "Albums/198274506_3.flac",
+    "descripcion": "198274506",
+    "imagen": "Albums/198274506.jpg",
+    "genero": "Dance & DJ/Electronica",
+    "titulo": "Crossing Field (Eurobeat Remix)",
+    "artista": "Turbo",
+    "album": "Eurobeat Remix",
+    "numero_de_pista": "3/4",
+    "Año": "2021"
+  },
+  {
+    "archivo_musica": "Albums/198274506_4.flac",
+    "descripcion": "198274506",
+    "imagen": "Albums/198274506.jpg",
+    "genero": "Dance & DJ/Electronica",
+    "titulo": "Uragirimono no Requiem / Eurobeat Remix",
+    "artista": "Turbo",
+    "album": "Eurobeat Remix",
+    "numero_de_pista": "4/4",
+    "Año": "2021"
   }
 ]
