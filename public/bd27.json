@@ -1571,5 +1571,148 @@
     "album": "Some Guys Have All The Luck (Disc 2)",
     "numero_de_pista": "32/32",
     "Año": "2008"
+  },
+  {
+    "archivo_musica": "Albums/198274512_1.flac",
+    "descripcion": "198274512",
+    "imagen": "Albums/198274512.jpg",
+    "genero": "Alternative ",
+    "titulo": "Shots",
+    "artista": "Imagine Dragons",
+    "album": "Smoke + Mirrors",
+    "numero_de_pista": "1/13",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274512_2.flac",
+    "descripcion": "198274512",
+    "imagen": "Albums/198274512.jpg",
+    "genero": "Alternative ",
+    "titulo": "Gold",
+    "artista": "Imagine Dragons",
+    "album": "Smoke + Mirrors",
+    "numero_de_pista": "2/13",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274512_3.flac",
+    "descripcion": "198274512",
+    "imagen": "Albums/198274512.jpg",
+    "genero": "Alternative ",
+    "titulo": "Smoke And Mirrors",
+    "artista": "Imagine Dragons",
+    "album": "Smoke + Mirrors",
+    "numero_de_pista": "3/13",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274512_4.flac",
+    "descripcion": "198274512",
+    "imagen": "Albums/198274512.jpg",
+    "genero": "Alternative ",
+    "titulo": "I’m So Sorry",
+    "artista": "Imagine Dragons",
+    "album": "Smoke + Mirrors",
+    "numero_de_pista": "4/13",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274512_5.flac",
+    "descripcion": "198274512",
+    "imagen": "Albums/198274512.jpg",
+    "genero": "Alternative ",
+    "titulo": "I Bet My Life",
+    "artista": "Imagine Dragons",
+    "album": "Smoke + Mirrors",
+    "numero_de_pista": "5/13",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274512_6.flac",
+    "descripcion": "198274512",
+    "imagen": "Albums/198274512.jpg",
+    "genero": "Alternative ",
+    "titulo": "Polaroid",
+    "artista": "Imagine Dragons",
+    "album": "Smoke + Mirrors",
+    "numero_de_pista": "6/13",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274512_7.flac",
+    "descripcion": "198274512",
+    "imagen": "Albums/198274512.jpg",
+    "genero": "Alternative ",
+    "titulo": "Friction",
+    "artista": "Imagine Dragons",
+    "album": "Smoke + Mirrors",
+    "numero_de_pista": "7/13",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274512_8.flac",
+    "descripcion": "198274512",
+    "imagen": "Albums/198274512.jpg",
+    "genero": "Alternative ",
+    "titulo": "It Comes Back To You",
+    "artista": "Imagine Dragons",
+    "album": "Smoke + Mirrors",
+    "numero_de_pista": "8/13",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274512_9.flac",
+    "descripcion": "198274512",
+    "imagen": "Albums/198274512.jpg",
+    "genero": "Alternative ",
+    "titulo": "Dream",
+    "artista": "Imagine Dragons",
+    "album": "Smoke + Mirrors",
+    "numero_de_pista": "9/13",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274512_10.flac",
+    "descripcion": "198274512",
+    "imagen": "Albums/198274512.jpg",
+    "genero": "Alternative ",
+    "titulo": "Trouble",
+    "artista": "Imagine Dragons",
+    "album": "Smoke + Mirrors",
+    "numero_de_pista": "10/13",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274512_11.flac",
+    "descripcion": "198274512",
+    "imagen": "Albums/198274512.jpg",
+    "genero": "Alternative ",
+    "titulo": "Summer",
+    "artista": "Imagine Dragons",
+    "album": "Smoke + Mirrors",
+    "numero_de_pista": "11/13",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274512_12.flac",
+    "descripcion": "198274512",
+    "imagen": "Albums/198274512.jpg",
+    "genero": "Alternative ",
+    "titulo": "Hopeless Opus",
+    "artista": "Imagine Dragons",
+    "album": "Smoke + Mirrors",
+    "numero_de_pista": "12/13",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274512_13.flac",
+    "descripcion": "198274512",
+    "imagen": "Albums/198274512.jpg",
+    "genero": "Alternative ",
+    "titulo": "The Fall",
+    "artista": "Imagine Dragons",
+    "album": "Smoke + Mirrors",
+    "numero_de_pista": "13/13",
+    "Año": "2015"
   }
 ]
